@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Cakes e Bolos",
+    "slug": "Cakes_Bolos",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/bakery.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/bakery.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bakery.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.swords14.Cakes_Bolos"
+    },
+    "web": {
+      "favicon": "./assets/bakery.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f286d686-46b9-4fb9-bf19-45ad12a16d97"
+      }
+    }
+  }
+}
